@@ -19,8 +19,8 @@ public void draw()
 	drawBranches(120,380,sizet+12,3*PI/2); 
 	drawBranches(520,380,sizet+18,3*PI/2); 
 	drawBranches(420,380,sizet+45,3*PI/2); 
-	drawBranches(220,380,sizet+5,3*PI/2); 
-	drawBranches(380,380,sizet-1,3*PI/2); 
+	drawBranches(220,380,sizet+41,3*PI/2); 
+	drawBranches(380,380,sizet+10,3*PI/2); 
 	if(sizet<50)
 		sizet+=1; 
 } 
